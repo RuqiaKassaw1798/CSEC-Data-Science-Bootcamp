@@ -1,4 +1,4 @@
-# Zindi Financial Inclusion in Africa — 7th Place Solution
+# ASTU community financial inclusion hackathon
 
 This repository contains the complete, reproducible machine learning pipeline for the **Financial Inclusion in Africa** competition hosted on Zindi. The objective is to predict whether a survey respondent has a bank account (binary classification) using demographic and socioeconomic features.
 
